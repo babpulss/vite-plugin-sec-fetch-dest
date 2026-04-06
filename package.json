@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-sec-fetch-dest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vite plugin that patches missing Sec-Fetch-Dest headers for IP/Safari access. Fixes TanStack Start + Nitro dev server module loading failures.",
   "type": "module",
   "main": "dist/index.cjs",
@@ -33,10 +33,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pildong/vite-plugin-sec-fetch-dest"
+    "url": "https://github.com/babpulss/vite-plugin-sec-fetch-dest"
   },
   "bugs": {
-    "url": "https://github.com/pildong/vite-plugin-sec-fetch-dest/issues"
+    "url": "https://github.com/babpulss/vite-plugin-sec-fetch-dest/issues"
   },
   "peerDependencies": {
     "vite": ">=5.0.0"
